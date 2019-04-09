@@ -3,4 +3,9 @@ dog
 elephant
 panda
 pig
-horse
+<<<<<<< HEAD
+monkey
+=======
+monkey
+
+>>>>>>> abc
