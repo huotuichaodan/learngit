@@ -2,5 +2,5 @@ cat
 dog
 elephant
 panda
-pi
-pigg
+pig
+horse
